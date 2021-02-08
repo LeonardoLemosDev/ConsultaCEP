@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido com React Js com a finalidade de buscar endereços a partir do CEP.
 
-<img src="https://github.com/LemosLeonardo/ConsultaCEP/blob/main/src/Images/app-consulta-cep.JPG?raw=true" width="800px" />
+<img src="https://github.com/LemosLeonardo/ConsultaCEP/blob/main/src/Images/app-consulta-cep.JPG?raw=true" width="100%" />
 
 ## Como utilizar
 Para utilizar esta aplicação, você deverá seguir estes passos:
