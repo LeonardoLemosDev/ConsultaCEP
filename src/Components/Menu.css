@@ -1,0 +1,36 @@
+.Menu {
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #343d46 ;
+    overflow-x: hidden;
+}
+.Menu img{
+    margin: 0 5px;
+}
+.Menu a{
+    text-decoration: none;
+    font-weight: 600;
+    color: rgb(20, 20, 20);
+    display: block;
+}
+.Menu a{
+    text-decoration: none;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+    display: block;
+    padding: 8px 20px ;
+}
+.Menu a:hover{
+    background-color: rgba(0, 0, 0, 0.075);
+}
+.Menu ul{
+    list-style: none;
+}
+.Menu li{
+    font-weight: 600;
+    color: rgb(20, 20, 20);
+}

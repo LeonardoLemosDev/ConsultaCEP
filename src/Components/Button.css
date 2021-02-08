@@ -1,0 +1,19 @@
+.Button button {
+    display: block;
+    margin-top: 20px !important;
+    margin: auto;
+    padding: 8px 20px;
+    background-color: #46525d;
+    border: none;
+    color: #fff;
+    border-radius: 6px;
+    letter-spacing: 1px;
+}
+
+.Button button:focus {
+    outline: none;
+}
+
+.Button button:active {
+    background-color: #343d46;
+}

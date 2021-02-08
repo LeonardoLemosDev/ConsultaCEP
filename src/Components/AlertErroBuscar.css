@@ -1,0 +1,14 @@
+.AlertErroBuscar {
+    margin-top: 100px !important;
+    width: 500px;
+    margin: auto;
+}
+
+.alert {
+    text-align: center;
+    padding: 20px;
+    background-color: #ffcc5c;
+    color: black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(128, 128, 128, 0.466);
+}

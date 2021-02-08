@@ -1,0 +1,20 @@
+.ConteudoInicio {
+    margin-left: 200px;
+}
+
+.ConteudoInicio h1 {
+    font-weight: 300;
+    text-align: center;
+}
+
+.ConteudoInicio p {
+    font-weight: 300;
+    text-align: justify;
+}
+.ConteudoInicio img {
+    width: 40rem;
+}
+
+.center{
+    text-align: center;
+}

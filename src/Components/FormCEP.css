@@ -1,0 +1,23 @@
+.FormCEP {
+    width: 400px;
+    height: 100px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.FormCEP label {
+    display: block;
+    font-weight: 400;
+    font-size: large;
+    text-align: center;
+    padding: 10px;
+}
+
+.FormCEP input {
+    display: block;
+    width: 392px;
+    letter-spacing: 15px;
+    padding: 3px;
+    text-align: center;
+}

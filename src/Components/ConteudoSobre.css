@@ -1,0 +1,11 @@
+.Sobre{
+    margin-left: 200px;
+}
+.Sobre h1{
+    font-weight: 300;
+    text-align: center;
+}
+.Sobre p{
+    font-weight: 300;
+    text-align: justify;
+}
